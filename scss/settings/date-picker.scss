@@ -1,3 +1,6 @@
+$datepicker__class: '#{$cui}-datepicker';
+
+// TODO: Remove ng settings when symphony styles are deprecated.
 $datepicker-width: 211px !default;
 $daypicker-day-width: 22px !default;
 $datepicker-large-width: $datepicker-width + 25px !default;
